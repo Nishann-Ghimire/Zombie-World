@@ -1,4 +1,4 @@
-# Adventure Game
+# Zombie World
 
 A 2D top-down shooter built with **C++ and SFML**, featuring directional player movement, projectile-based combat, enemy pursuit, health management, and a custom graphical menu.
 
